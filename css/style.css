@@ -1,0 +1,32 @@
+body {
+    background-color: orange;
+}
+
+h1 {
+    background-color: blueviolet;
+    color: lime;
+    text-align: center;
+}
+
+#tekst {
+    font-size: 30px;
+    color: brown;
+    text-align: center;
+}
+
+
+#dodaj {
+    background-color: green;
+}
+
+#usun {
+    background-color: orangered;
+}
+
+button {
+    height: 50px;
+    width: 180px;
+    float: left;
+    margin: 10px;
+}
+
